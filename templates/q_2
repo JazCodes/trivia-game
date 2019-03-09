@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>TRIVIA GAME</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+</head>
+<body>
+
+	<h3>Question 1</h3>
+	<p>Choose the word that best describes the meaning of the bolded word in the following sentence. The newspaper released a scathing review of the director’s latest Broadway hit.</p>
+
+	<button type="button" class="btn btn-outline-dark">12</button>
+	<button type="button" class="btn btn-outline-dark">24</button>
+	<button type="button" class="btn btn-outline-dark">36</button>
+	<button type="button" class="btn btn-outline-dark">48</button>
+	<button type="button" class="btn btn-outline-dark">60</button>
+
+
+
+
+
+
+
+
+
+</body>
+</html>
